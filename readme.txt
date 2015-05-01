@@ -1,5 +1,5 @@
 === MDC Scroll To Top ===
-Contributors: mukto90
+Contributors: mukto90, medhabidotcom
 Tags: scroll, scroll top, scroll to top, move to top, to top, move top, mdc
 Requires at least: 3.0
 Tested up to: 4.1
